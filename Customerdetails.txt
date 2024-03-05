@@ -1,0 +1,86 @@
+Displaying Customer Details from Head: 
+Customer 1
+Name: Usman
+Password: Usman932
+Email: k213225@nu.edu.pk
+Address: -
+Customersum: 2099
+
+Customer 2
+Name: Fatima
+Password: Fati12389
+Email: k213455@nu.edu.pk
+Address: DE
+Customersum: 700
+
+Customer 3
+Name: Test-ID-A
+Password: Test12
+Email: TestA@.edu.pk
+Address: -
+Customersum: 1200
+
+Customer 4
+Name: Test-ID-B
+Password: Test34
+Email: TestB@.edu.pk
+Address: -
+Customersum: 400
+
+Customer 5
+Name: Test-ID-C
+Password: Test56
+Email: TestC@nu.edu.pk
+Address: -
+Customersum: 9999
+
+Customer 6
+Name: Test-ID-D
+Password: Test78
+Email: TestD@nu.edu.pk
+Address: -
+Customersum: 100
+
+Displaying Customers according to Customer sum in ascending order: 
+Customer 1
+Name: Test-ID-D
+Password: Test78
+Email: TestD@nu.edu.pk
+Address: Test78
+Customersum: 100
+
+Customer 2
+Name: Test-ID-B
+Password: Test34
+Email: TestB@.edu.pk
+Address: Test34
+Customersum: 400
+
+Customer 3
+Name: Fatima
+Password: Fati12389
+Email: k213455@nu.edu.pk
+Address: Fati12389
+Customersum: 700
+
+Customer 4
+Name: Test-ID-A
+Password: Test12
+Email: TestA@.edu.pk
+Address: Test12
+Customersum: 1200
+
+Customer 5
+Name: Usman
+Password: Usman932
+Email: k213225@nu.edu.pk
+Address: Usman932
+Customersum: 2099
+
+Customer 6
+Name: Test-ID-C
+Password: Test56
+Email: TestC@nu.edu.pk
+Address: Test56
+Customersum: 9999
+

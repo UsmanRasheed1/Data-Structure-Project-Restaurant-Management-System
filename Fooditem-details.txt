@@ -1,0 +1,76 @@
+* AAAA:
+Price: 999
+Amount Earned: 0
+
+* Biryani:
+Price: 150
+Amount Earned: 0
+
+* Burger:
+Price: 200
+Amount Earned: 800
+
+* Cheese-Burger:
+Price: 250
+Amount Earned: 0
+
+* Chicken-Karahi:
+Price: 890
+Amount Earned: 0
+
+* Chilli-Chicken:
+Price: 999
+Amount Earned: 0
+
+* Chocolate-Cake:
+Price: 500
+Amount Earned: 0
+
+* Chow-mein:
+Price: 500
+Amount Earned: 0
+
+* Drink-Large:
+Price: 200
+Amount Earned: 0
+
+* Drink-Small:
+Price: 60
+Amount Earned: 0
+
+* Dumplings:
+Price: 750
+Amount Earned: 0
+
+* Fried-Rice:
+Price: 650
+Amount Earned: 0
+
+* Haleem:
+Price: 250
+Amount Earned: 0
+
+* Icecream:
+Price: 150
+Amount Earned: 300
+
+* Manchurian:
+Price: 700
+Amount Earned: 0
+
+* Nihari:
+Price: 600
+Amount Earned: 0
+
+* Noodle-Soup:
+Price: 290
+Amount Earned: 0
+
+* Spaghetti:
+Price: 895
+Amount Earned: 0
+
+* Wonton:
+Price: 675
+Amount Earned: 0
+

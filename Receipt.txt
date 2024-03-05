@@ -1,0 +1,9 @@
+----------------------      Displaying Receipt#110: ------------------
+Burgerx1     200
+Icecreamx2     300
+Burgerx3     600
+Total Bill: 1100
+The food was delivered by Usman
+Customer Username: Usman
+Customer Address: -
+--------------------------------------------------------------------------------------------
